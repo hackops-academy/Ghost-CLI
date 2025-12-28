@@ -1,6 +1,6 @@
-# GhostArchive-CLI v2.0 👻🔍
+# Ghost-CLI v2.0 
 
-**GhostArchive-CLI** is a high-speed, passive OSINT and reconnaissance tool designed to bypass search engine restrictions. By leveraging historical archives and SSL certificate transparency logs, it uncovers subdomains, forgotten endpoints, and sensitive files without ever sending a single packet to the target server or being blocked by Google CAPTCHAs.
+**Ghost-CLI** is a high-speed, passive OSINT and reconnaissance tool designed to bypass search engine restrictions. By leveraging historical archives and SSL certificate transparency logs, it uncovers subdomains, forgotten endpoints, and sensitive files without ever sending a single packet to the target server or being blocked by Google CAPTCHAs.
 
 ---
 
@@ -18,7 +18,7 @@
 
 ---
 
-#📥 Installation
+# 📥 Installation
 
 **1. Clone & Set Permissions**
 ```bash

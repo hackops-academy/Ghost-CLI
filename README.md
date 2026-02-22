@@ -23,6 +23,7 @@
 **1. Clone & Set Permissions**
 ```bash
 git clone https://github.com/hackops-academy/Ghost-CLI.git
+cd Ghost-CLI
 chmod +x ghost.sh
 ```
 **2. Run the tool**
